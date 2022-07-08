@@ -91,7 +91,7 @@ GDSC(Google Developer Student Clubs)은 Google Developers에서 제공하는 프
 
 ## 후원사
 
-Google Developers, 인프런, 당근마켓, 상명대학교 SW중심대학, 이브레인
+Google Developers, 인프런, 당근마켓, 상명대학교 SW중심대학사업단, 이브레인
 
 ## 스태프
 
