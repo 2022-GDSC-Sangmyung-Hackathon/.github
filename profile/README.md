@@ -1,12 +1,12 @@
 # 2022 상명SW중심대학과 함께하는 GDSC Sangmyung Hackathon
 
-![hackathon image](./profile/contents/winter_hack.jpg)
+![gdsc smu hack image](./profile/contents/gdsc_smu_hack.jpg)
 
 개발에 대한 SW접근성을 확대하고 새롭고 창의적인 아이디어를 개발로 도출할 수 있는 기회 제공하며, 여러 전공 학생들의 시선으로 본 일상의 역발상에서 비롯된 새로운 SW관점 창출하고자 한다.
 
 ## Google Developer Student Clubs
 
-![gdsc image](./profile/contents/gdsc_smu.svg)
+![gdsc smu image](./profile/contents/gdsc_smu.svg)
 
 
 GDSC(Google Developer Student Clubs)은 Google Developers에서 제공하는 프로그램으로, 대학교를 기반으로 하는 개발자 커뮤니티 그룹입니다. GDSC의 학생들은 peer-to-peer 학습 환경에서 역량을 키우고 공동체와 지역사회를 위한 솔루션 구축을 목표로 합니다.
