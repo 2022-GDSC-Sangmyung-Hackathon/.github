@@ -1,6 +1,6 @@
 # 2022 상명SW중심대학과 함께하는 GDSC Sangmyung Hackathon
 
-![gdsc smu hack image](./profile/contents/gdsc_smu_hack.jpg)
+![gdsc smu hack image](./profile/contents/gdsc_smu_hack.png)
 
 개발에 대한 SW접근성을 확대하고 새롭고 창의적인 아이디어를 개발로 도출할 수 있는 기회 제공하며, 여러 전공 학생들의 시선으로 본 일상의 역발상에서 비롯된 새로운 SW관점 창출하고자 한다.
 
