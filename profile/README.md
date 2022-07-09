@@ -33,7 +33,7 @@ GDSC(Google Developer Student Clubs)은 Google Developers에서 제공하는 프
 | 시상, 사진 촬영, 폐회      | 07월 10일 오후 5시 ~ 5시 30분              |
 
 ## 주제
-- 일상의 역발상
+- 
 
 ## 수상 및 심사
 
