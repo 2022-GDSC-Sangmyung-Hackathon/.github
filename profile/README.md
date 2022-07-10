@@ -78,7 +78,7 @@ GDSC(Google Developer Student Clubs)은 Google Developers에서 제공하는 프
 - 발표 안내 
   - 결과물 제출은 발표 자료, Github URL, 시연 영상(선택 사항)을 Google Form(공유 가능 상태)으로 제출합니다.
   - 발표자료는 원활한 발표 진행을 위해 PDF 파일만 제출할 수 있습니다.(Keynote, Powerpoint 사용 불가)
-  - 영상자료(선택 사항) 시연 영사으이 재생 시간도 발표 시간에 포함됩니다.
+  - 영상자료(선택 사항) 시연 영상의 재생 시간도 발표 시간에 포함됩니다.
 
 - 깃허브 규칙
   - GitHub Organization의 팀 Repository 이름은 “팀번호_팀이름”이나 “팀번호_프로젝트이름”으로 설정해 주세요. ex) 01_팀이름, 11_프로젝트이름 등등
