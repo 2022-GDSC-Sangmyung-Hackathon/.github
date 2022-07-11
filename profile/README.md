@@ -39,7 +39,10 @@ GDSC(Google Developer Student Clubs)은 Google Developers에서 제공하는 프
 
 ### 수상
 
-대상(1), 최우수상(1), 우수상(2) 순으로 시상합니다. 
+대상: 떡잎방범대 팀
+최우수상: 초록매실 팀
+우수상: 햏커톤 팀
+우수상: 메가톤 팀
 
 ### 심사기준
 
@@ -61,7 +64,7 @@ GDSC(Google Developer Student Clubs)은 Google Developers에서 제공하는 프
 
 ### 심사위원
 
-오종인님, 김진우님, 전유진님
+시솔지주 오종인님, 시솔지주 김진우님, 시솔지주 전유진님
 
 ## 규칙
 
