@@ -64,7 +64,7 @@ GDSC(Google Developer Student Clubs)은 Google Developers에서 제공하는 프
 
 ### 심사위원
 
-시솔지주 오종인님, 시솔지주 김진우님, 시솔지주 전유진님
+시솔지주 오종인님, 시솔지주 김진우님, 시솔지주 전유진님, 성광제 교수님
 
 ## 규칙
 
